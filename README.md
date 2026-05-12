@@ -15,6 +15,14 @@ Página Web a analizar [**https://www.mk2cines.es/es/nervion-plaza-sevilla/**](h
 Para conseguir estos datos usamos páginas de análisis ecológico como: [Website Carbon Calculator](https://www.websitecarbon.com/) y  [Website emissions](https://websiteemissions.com/)
 
 
+Hicimos la division de permiso en una sola tabla dividida en roles/sectores, manteniendo el Principio de Mínimo Privilegio para garantizar la seguridad al usuario. 
+| Nombre del Archivo | tipo de archivo | tamaño | 
+ | :---- | :---- | :---- | 
+ |  |   |  |
+ |  |  |  |  
+ |  |  |  |  
+
+
 ## Fase 2: Dimensión Social y Equidad (S)
 
 ## Fase 3: Dimensión de Gobernanza y Ética (G)
