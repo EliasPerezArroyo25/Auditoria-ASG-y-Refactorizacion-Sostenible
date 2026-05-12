@@ -18,9 +18,9 @@ Para conseguir estos datos usamos páginas de análisis ecológico como: [Websit
 Hicimos la division de permiso en una sola tabla dividida en roles/sectores, manteniendo el Principio de Mínimo Privilegio para garantizar la seguridad al usuario. 
 | Nombre del Archivo | tipo de archivo | tamaño | 
  | :---- | :---- | :---- | 
- |  |   |  |
- |  |  |  |  
- |  |  |  |  
+ | https://www.mk2cines.es/data/fotos/captura-de-pantalla-2026-05-06-a-la69.png |  png  | 1,64 MB |
+ | https://www.mk2cines.es/data/fotos/captura-de-pantalla-2026-05-06-a-la.png | png  |  1,48 MB |  
+ |  https://www.mk2cines.es/data/fotos/tadc-poster-2x3-es-4-7jun10.jpg|  jpeg | 1,35 MB  |  
 
 
 ## Fase 2: Dimensión Social y Equidad (S)
