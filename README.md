@@ -16,16 +16,20 @@ Para conseguir estos datos usamos páginas de análisis ecológico como: [Websit
 
 
 Hicimos la division de permiso en una sola tabla dividida en roles/sectores, manteniendo el Principio de Mínimo Privilegio para garantizar la seguridad al usuario. 
+
+**2.Identificación de Bloatware**
 | Nombre del Archivo | tipo de archivo | tamaño | 
  | :---- | :---- | :---- | 
  | https://www.mk2cines.es/data/fotos/captura-de-pantalla-2026-05-06-a-la69.png |  png  | 1,64 MB |
  | https://www.mk2cines.es/data/fotos/captura-de-pantalla-2026-05-06-a-la.png | png  |  1,48 MB |  
  |  https://www.mk2cines.es/data/fotos/tadc-poster-2x3-es-4-7jun10.jpg|  jpeg | 1,35 MB  |  
-
+ 
+Para conseguir estas medidas se ha usado la herramienta de desarrollador del navegador Firefox,
+ya que otras herramientas como la de Chrome no mostraba el tamaño de los archivos al estar guardado en la caché
+<img width="1189" height="133" alt="image" src="https://github.com/user-attachments/assets/e0d10960-4d93-4315-91f9-9eee2296f63d" />
 
 ## Fase 2: Dimensión Social y Equidad (S)
 
 ## Fase 3: Dimensión de Gobernanza y Ética (G)
 
 ## Fase 4: Propuesta de Refactorización (Green Coding)
-
