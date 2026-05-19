@@ -33,3 +33,10 @@ ya que otras herramientas como la de Chrome no mostraba el tamaño de los archiv
 ## Fase 3: Dimensión de Gobernanza y Ética (G)
 
 ## Fase 4: Propuesta de Refactorización (Green Coding)
+### **Optimización de activos**
+
+- Respecto a las imágenes, sería muy beneficioso que fueran refactorizadas para pasar ser a formato WebP ya que es un formato muy estandarizado,
+  sencillo y con el que se reduciría el tamaño alrededor de un 30% respecto a los actuales usados.
+  
+- En adición, sería recomendable implementar el lazy loading. Al tener tantas imágenes esto reduciría el 
+procesamiento y uso de red inicial que hay que hacer al descargar todas las imágenes al principio.
