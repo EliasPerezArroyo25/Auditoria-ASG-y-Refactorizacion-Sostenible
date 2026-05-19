@@ -32,13 +32,25 @@ ya que otras herramientas como la de Chrome no mostraba el tamaño de los archiv
 
 ## Fase 3: Dimensión de Gobernanza y Ética (G)
 ### **Trasparencia**
-La web tiene un menú con cookies que te permite Rechazar y Aceptar, o configurarlas. La página avisa que el usuario puede configurar o rechazar las cookies que quiere que se presenten. Además de como siempre, asegurar la privacidad del usuario y que se usarán para un buen uso
+<p align="justify">
+ 
+-  La web tiene un menú con cookies que te permite Rechazar y Aceptar, o configurarlas. La página avisa que el usuario puede configurar o rechazar las cookies que quiere que se presenten. Además de como siempre, asegurar la privacidad del usuario y que se usarán para un buen uso. Aun con eso, el mensaje insiste en que primero se acepten y después se configure para gestionar el consentimiento.
+</p>
+<p align="center">
+<img width="670" height="150" alt="image" src="https://github.com/user-attachments/assets/bd6b1bd4-d091-41fd-a569-89a50ea68f9a" />
+</p>
 
-Aun con eso, el mensaje insiste en que primero se acepten y después se configure para gestionar el consentimiento.
-<img width="670" height="137" alt="image" src="https://github.com/user-attachments/assets/bd6b1bd4-d091-41fd-a569-89a50ea68f9a" />
+### **Datos innecesarios**
+<p align="justify">
+ 
+-  En el formulario de solo solicita el correo electrónico y un nombre por el cual dirigirse al usaurio, además del consentimiento para que se les envíen correos con publicidad, No pide datos personales mas que esos. Además de esto se pide aceptar los términos y condiciones y la política de la empresa, bastante adecuado para una empresa de cines
+ </p>
+<p align="center">
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/d44b7364-50f8-4a81-b17d-c009ddb29b7b" />
+</p>
 
 ## Fase 4: Propuesta de Refactorización (Green Coding)
-### **Optimización de activos**
+### Optimización de activos
 
 - Respecto a las imágenes, sería muy beneficioso que fueran refactorizadas para pasar ser a formato WebP ya que es un formato muy estandarizado,
   sencillo y con el que se reduciría el tamaño alrededor de un 30% respecto a los actuales usados.
