@@ -57,3 +57,13 @@ ya que otras herramientas como la de Chrome no mostraba el tamaño de los archiv
   
 - En adición, sería recomendable implementar el lazy loading. Al tener tantas imágenes esto reduciría el 
 procesamiento y uso de red inicial que hay que hacer al descargar todas las imágenes al principio.
+
+### Reducción de peticiones
+
+-  Se han podido identificar la librerías que requieren de la biblioteca jQuery de Javascript que se podría sustituir por alternativas más modernas y ligeras. Además se ha identificado el uso de Bootstrap que con un poco de trabajo y adaptación podría ser sustituido por CSS.
+
+### Reflexión sobre la Paradoja de Jevons
+-  Teniendo en cuenta la Paradoja de Jevons y lo que significa, la web tendrá mucho tráfico, así que tanto sí es por la implementación de publicidad en la web y su monetización o el crecimiento del negocio, se alcanzarán beneficios económicos. <br> <br> Ahora, referenciando otra expresión, “*un gran poder conlleva una responsabilidad*”, así que con la responsabilidad y nuestra conciencia respecto a la sostenibilidad lo más beneficioso sería invertir esas ganancias en cosas como servidores de alojamiento más sostenibles, buenos profesionales que actualicen la página web con las últimas tecnologías más eficientes y en concienciar a la empresa y los trabajadores para que se adopten medidas y se tomen decisiones responsables sosteniblemente en todos los aspectos que la rodean.
+
+
+
