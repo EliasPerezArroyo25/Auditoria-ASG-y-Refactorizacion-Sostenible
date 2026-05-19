@@ -31,6 +31,11 @@ ya que otras herramientas como la de Chrome no mostraba el tamaño de los archiv
 ## Fase 2: Dimensión Social y Equidad (S)
 
 ## Fase 3: Dimensión de Gobernanza y Ética (G)
+### **Trasparencia**
+La web tiene un menú con cookies que te permite Rechazar y Aceptar, o configurarlas. La página avisa que el usuario puede configurar o rechazar las cookies que quiere que se presenten. Además de como siempre, asegurar la privacidad del usuario y que se usarán para un buen uso
+
+Aun con eso, el mensaje insiste en que primero se acepten y después se configure para gestionar el consentimiento.
+<img width="670" height="137" alt="image" src="https://github.com/user-attachments/assets/bd6b1bd4-d091-41fd-a569-89a50ea68f9a" />
 
 ## Fase 4: Propuesta de Refactorización (Green Coding)
 ### **Optimización de activos**
