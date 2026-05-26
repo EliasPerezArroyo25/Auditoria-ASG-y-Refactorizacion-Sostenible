@@ -29,6 +29,13 @@ Para conseguir estos datos usamos páginas de análisis ecológico como: [Websit
 ya que otras herramientas como la de Chrome no mostraba el tamaño de los archivos al estar guardado en la caché
 <img width="1189" height="133" alt="image" src="https://github.com/user-attachments/assets/e0d10960-4d93-4315-91f9-9eee2296f63d" />
 
+### Análisis de la "inflación de software".
+
+Sí, la web sufre "inflación de software".
+Podemos verlo en el uso de recursos excesivamente pesados para la función que realiza una web de este tipo, Esto aumenta innecesariamente el consumo de datos y el tiempos de cargas. Además, la página web consta con un uso de librerías y recursos extras que no están optimizados lo que aumenta la complejidad y el peso de la página web sin aportar realmente una mejora significativa. 
+
+En conjunto, estos factores son los que indican que la web utiliza más recursos de los necesarios para sus servicios, lo que es característico de la inflación de software.
+
 ## Fase 2: Dimensión Social y Equidad (S)
 ### Test de Accesibilidad
 Usando la herramienta de chrome *“Lighthouse“*,sabemos que la accesibilidad de la página es de 62
