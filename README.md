@@ -1,4 +1,4 @@
-<img width="509" height="457" alt="image" src="https://github.com/user-attachments/assets/71b9dff1-a053-44b3-8865-9e5385eb2e2b" /># Informe Técnico de Auditoría
+# Informe Técnico de Auditoría
 
 Página Web a analizar [**https://www.mk2cines.es/es/nervion-plaza-sevilla/**](https://www.mk2cines.es/es/nervion-plaza-sevilla/) 
 
