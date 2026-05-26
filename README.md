@@ -35,6 +35,9 @@ Sí, la web sufre "inflación de software".
 Podemos verlo en el uso de recursos excesivamente pesados para la función que realiza una web de este tipo, Esto aumenta innecesariamente el consumo de datos y el tiempos de cargas. Además, la página web consta con un uso de librerías y recursos extras que no están optimizados lo que aumenta la complejidad y el peso de la página web sin aportar realmente una mejora significativa. 
 
 En conjunto, estos factores son los que indican que la web utiliza más recursos de los necesarios para sus servicios, lo que es característico de la inflación de software.
+<p align="center">
+<img width="400" height="377" alt="image" src="https://github.com/user-attachments/assets/f0b96136-7c87-4aba-9020-96897d96e912" />
+ </p>
 
 ## Fase 2: Dimensión Social y Equidad (S)
 ### Test de Accesibilidad
