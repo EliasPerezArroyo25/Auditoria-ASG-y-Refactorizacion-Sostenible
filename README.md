@@ -1,4 +1,4 @@
-# Informe Técnico de Auditoría
+<img width="509" height="457" alt="image" src="https://github.com/user-attachments/assets/71b9dff1-a053-44b3-8865-9e5385eb2e2b" /># Informe Técnico de Auditoría
 
 Página Web a analizar [**https://www.mk2cines.es/es/nervion-plaza-sevilla/**](https://www.mk2cines.es/es/nervion-plaza-sevilla/) 
 
@@ -36,7 +36,8 @@ Podemos verlo en el uso de recursos excesivamente pesados para la función que r
 
 En conjunto, estos factores son los que indican que la web utiliza más recursos de los necesarios para sus servicios, lo que es característico de la inflación de software.
 <p align="center">
-<img width="400" height="377" alt="image" src="https://github.com/user-attachments/assets/f0b96136-7c87-4aba-9020-96897d96e912" />
+<img width="400" height="357" alt="image" src="https://github.com/user-attachments/assets/1b334065-67d6-4444-b40f-d84398b249a7" />
+
  </p>
 
 ## Fase 2: Dimensión Social y Equidad (S)
