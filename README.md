@@ -91,6 +91,23 @@ procesamiento y uso de red inicial que hay que hacer al descargar todas las imá
 - **Limpieza de código innecesario:** Se ha eliminado código del archivo HTML que no tuviese ya uso en la web. Esto debería reducir el tamaño y aumentar la velocidad de descarga del usuario.
 - **Adición de atributo alt:** En las imágenes se ha añadido un atributo alt con una descripción de la mostrado. Esto debería solucionar uno de los problemas de accesibilidad que se tenía previamente relacionado a la navegación de personas con discapacidades visuales permitiéndoles navegar usando la función de dictado por voz del navegador.
 - **Refactorización a HTML semántico:** Se ha refactorizado y cambiado la estructura a un HTML semántico. Esto permitirá que la web sea más fácil de mantener y legible para otro futura revisión y que los navegadores interpreten mejor la estructura.
+## "Comparativa"
+
+*  La comparativa indica que la refactorización sigue siendo pequeña para los problemas que se tienen actualmente y que serán necesarios más.
+
+*  Como se pudo ver en el análisis, el paso más necesario es la refactorización de las imágenes de la web a formato Webp y para ser posible esto se necesitará cambiar todas las imágenes que en esta comparativa no ha podido ser posible.
+
+*  También se puede ver como la accesibilidad ha aumentado con los cambios aplicados mencionados anteriormente. 
+
+  
+### Antes/Despues
+
+<p align="justify">
+<img width="434" height="150" alt="image" src="https://github.com/user-attachments/assets/4fc5b9dc-2d6f-40ec-984c-821c4d09ca04" />
+
+<img width="434" height="150" alt="image" src="https://github.com/user-attachments/assets/ad1abfda-0e33-455b-bcc2-5add7830dd36" />
+</p>
+
 ## Referencias
 
 [1]
