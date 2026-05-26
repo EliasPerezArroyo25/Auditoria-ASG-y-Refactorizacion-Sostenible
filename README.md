@@ -87,7 +87,8 @@ procesamiento y uso de red inicial que hay que hacer al descargar todas las imá
 -  Teniendo en cuenta la Paradoja de Jevons y lo que significa, la web tendrá mucho tráfico, así que tanto sí es por la implementación de publicidad en la web y su monetización o el crecimiento del negocio, se alcanzarán beneficios económicos. <br> <br> Ahora, referenciando otra expresión, “*un gran poder conlleva una responsabilidad*”, así que con la responsabilidad y nuestra conciencia respecto a la sostenibilidad lo más beneficioso sería invertir esas ganancias en cosas como servidores de alojamiento más sostenibles, buenos profesionales que actualicen la página web con las últimas tecnologías más eficientes y en concienciar a la empresa y los trabajadores para que se adopten medidas y se tomen decisiones responsables sosteniblemente en todos los aspectos que la rodean.
 ## Refactorizacion
 - **Aplicación de lazy loading:** En todas las imágenes donde sea relevante se ha añadido esta función para mejorar el rendimiento haciendo que no se carguen todas las imágenes a la vez y solo las que ve el usuario. Con esto se conseguirá aliviar el hardware de carga innecesaria
-- **Limpieza de código innecesario:** Se ha eliminado código del archivo HTML que no tuviese ya uso en la web. Esto debería reducir el tamaño y aumentar la velocidad de descarga del usuario. 
+- **Limpieza de código innecesario:** Se ha eliminado código del archivo HTML que no tuviese ya uso en la web. Esto debería reducir el tamaño y aumentar la velocidad de descarga del usuario.
+- **Adición de atributo alt:** En las imágenes se ha añadido un atributo alt con una descripción de la mostrado. Esto debería solucionar uno de los problemas de accesibilidad que se tenía previamente relacionado a la navegación de personas con discapacidades visuales permitiéndoles navegar usando la función de dictado por voz del navegador.
 ## Referencias
 
 [1]
