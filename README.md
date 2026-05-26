@@ -83,6 +83,7 @@ procesamiento y uso de red inicial que hay que hacer al descargar todas las imá
 ### Reflexión sobre la Paradoja de Jevons
 -  Teniendo en cuenta la Paradoja de Jevons y lo que significa, la web tendrá mucho tráfico, así que tanto sí es por la implementación de publicidad en la web y su monetización o el crecimiento del negocio, se alcanzarán beneficios económicos. <br> <br> Ahora, referenciando otra expresión, “*un gran poder conlleva una responsabilidad*”, así que con la responsabilidad y nuestra conciencia respecto a la sostenibilidad lo más beneficioso sería invertir esas ganancias en cosas como servidores de alojamiento más sostenibles, buenos profesionales que actualicen la página web con las últimas tecnologías más eficientes y en concienciar a la empresa y los trabajadores para que se adopten medidas y se tomen decisiones responsables sosteniblemente en todos los aspectos que la rodean.
 ## Refactorizacion
+- **Aplicación de lazy loading**: En todas las imágenes donde sea relevante se ha añadido esta función para mejorar el rendimiento haciendo que no se carguen todas las imágenes a la vez y solo las que ve el usuario. Con esto se conseguirá aliviar el hardware de carga innecesaria 
 ## Referencias
 [1]
 “Axe rules”, Dequeuniversity.com. [En línea]. Disponible en: https://dequeuniversity.com/rules/axe/4.11/target-size. [Consultado: 19-may-2026].
