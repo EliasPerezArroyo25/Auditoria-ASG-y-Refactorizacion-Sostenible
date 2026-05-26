@@ -105,7 +105,8 @@ procesamiento y uso de red inicial que hay que hacer al descargar todas las imá
 <p align="justify">
 <img width="434" height="150" alt="image" src="https://github.com/user-attachments/assets/4fc5b9dc-2d6f-40ec-984c-821c4d09ca04" />
 
-<img width="434" height="150" alt="image" src="https://github.com/user-attachments/assets/ad1abfda-0e33-455b-bcc2-5add7830dd36" />
+<img width="434" height="148" alt="image" src="https://github.com/user-attachments/assets/f3ce6484-35f5-4f36-970b-9256ce6e415e" />
+
 </p>
 
 ## Referencias
